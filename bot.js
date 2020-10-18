@@ -12,6 +12,7 @@ Client.on('message', msg=>{
 
 if(msg.content === "Hi"){
 msg.reply('hello user')
+  //you can add more if statements like the above syntax for more responding
   }
 
 })
